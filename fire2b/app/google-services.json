@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "412763485237",
+    "firebase_url": "https://iot2b-2024-default-rtdb.firebaseio.com",
+    "project_id": "iot2b-2024",
+    "storage_bucket": "iot2b-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412763485237:android:750ef2572c9b23e341ad7c",
+        "android_client_info": {
+          "package_name": "com.esiot.fire2b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisL9dZyZ5B2v_GDN0fu_RDvbgt7mQjuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
